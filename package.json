@@ -1,0 +1,19 @@
+{
+    "name": "flybuny",
+    "version": "1.0.0",
+    "description": "fly is coming",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "wixua",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/builders": "^1.6.5",
+        "@discordjs/rest": "^1.1.0",
+        "better-sqlite3": "^9.0.0",
+        "discord-api-types": "^0.37.5",
+        "discord-modals": "^1.3.9",
+        "discord.js": "^14.14.1"
+    }
+}
